@@ -1,3 +1,2 @@
 # End of support ⚠
-VenomRAT v6.0.3 (+SOURCE)
-A RAT
+Love to the people that support me ❤️
